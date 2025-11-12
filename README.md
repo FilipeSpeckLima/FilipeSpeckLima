@@ -18,6 +18,10 @@ Sou motivado por desafios, aprendizado contínuo e pela busca de qualidade em ca
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipeSpeckLima&repo=FilipeSpeckLima.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSpeckLima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
