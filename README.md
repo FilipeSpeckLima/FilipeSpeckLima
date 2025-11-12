@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**FilipeSpeckLima/FilipeSpeckLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###### Sobre o Filipe
+Sou Filipe Speck de Lima, formado em Administração e atualmente em transição de carreira para a área de Tecnologia da Informação.
+Após 13 anos de experiência no setor bancário — atuando como gerente de contas pessoa física e liderando equipes — decidi direcionar minha carreira para o universo da automação de testes e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente curso Engenharia de Qualidade de Software na EBAC, onde venho desenvolvendo projetos práticos com foco em testes end-to-end (E2E), utilizando ferramentas como Cypress, JavaScript, Faker, e Page Objects.
+
+Sou motivado por desafios, aprendizado contínuo e pela busca de qualidade em cada entrega. 🚀
+
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeSpeckLima&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
